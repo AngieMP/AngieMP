@@ -1,6 +1,5 @@
 ### Developer
 ![juaherre's 42 stats](https://m.media-amazon.com/images/I/71mkTfMrVGL._AC_SX425_.jpg)
-[C](https://m.media-amazon.com/images/I/71mkTfMrVGL._AC_SX425_.jpg)
 
 <!--
 **AngieMP/AngieMP** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
