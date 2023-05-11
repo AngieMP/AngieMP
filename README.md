@@ -1,5 +1,4 @@
 ### Developer
-!(https://github.com/AngieMP/AngieMP/blob/main/letter-c-png-5a36954d474e54.1991877715135266052921.png)
 
 <!--
 **AngieMP/AngieMP** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
