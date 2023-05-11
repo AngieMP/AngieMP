@@ -1,5 +1,5 @@
 ### Developer
-[C](images/letter-c-png-5a36954d474e54.1991877715135266052921.png)
+[C](https://m.media-amazon.com/images/I/71mkTfMrVGL._AC_SX425_.jpg)
 
 <!--
 **AngieMP/AngieMP** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
