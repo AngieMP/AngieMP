@@ -1,4 +1,5 @@
 ### Developer
+[![juaherre's 42 stats](https://m.media-amazon.com/images/I/71mkTfMrVGL._AC_SX425_.jpg)](https://github.com/JaeSeoKim/badge42)
 [C](https://m.media-amazon.com/images/I/71mkTfMrVGL._AC_SX425_.jpg)
 
 <!--
