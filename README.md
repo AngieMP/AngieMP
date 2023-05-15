@@ -1,5 +1,4 @@
 <h1 align=center> :leaves: Ángela Medina Pavón :leaves: </h1>
-<br/>
 <h2 align=center>
   :computer: Coding at...
 </h2>
@@ -18,15 +17,7 @@
   <a href="#"><img src="https://img.shields.io/badge/-HTML5-000?style=for-the-badge&logo=html5"></a>
   <a href="#"><img src="https://img.shields.io/badge/-CSS3-000?style=for-the-badge&logo=css3"></a>
 </p>
-<!--
-<style>
-  body {
-        background-image: url("https://static.wikia.nocookie.net/recreo/images/9/9a/Gretchen.png/revision/latest?cb=20130711235038&path-prefix=es");
-        background-repeat: no repeat;
-        backgroud-position: right;
-       }
-</style>
--->
+
 <!--
 **AngieMP/AngieMP** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
