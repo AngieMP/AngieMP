@@ -9,7 +9,7 @@
   
 <h2 align=center>
   :zap: Skills...
-  
+  <p> </p>
 <p align="center">
   <a href="#"><img src="https://img.shields.io/badge/-C-000?style=for-the-badge&logo=c"></a>
   <a href="#"><img src="https://img.shields.io/badge/-Python-000?style=for-the-badge&logo=python"></a>
