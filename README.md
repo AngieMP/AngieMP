@@ -1,4 +1,4 @@
-<h1 align=center> ✨ Ángela Medina Pavón ✨ </h1>
+<h1 align=center> :leaves: Ángela Medina Pavón :leaves: </h1>
 <br/>
 <h2 align=center>
   :computer: Coding at...
