@@ -6,6 +6,9 @@
 <h2 align=center>
   <img width="20%" src="https://www.42madrid.com/wp-content/uploads/2020/04/42-Madrid.jpg">
 </h2>
+<h2 align=center>
+  Skills
+</h2>
 <p align="center">
   <a href="#"><img src="https://img.shields.io/badge/-Python-000?style=for-the-badge&logo=python"></a>
   <a href="#"><img src="https://img.shields.io/badge/-C-000?style=for-the-badge&logo=c"></a>
