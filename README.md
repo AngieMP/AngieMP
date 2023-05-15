@@ -10,8 +10,8 @@
   :zap: Skills...
 </h2>
 <p align="center">
-  <a href="#"><img src="https://img.shields.io/badge/-Python-000?style=for-the-badge&logo=python"></a>
   <a href="#"><img src="https://img.shields.io/badge/-C-000?style=for-the-badge&logo=c"></a>
+  <a href="#"><img src="https://img.shields.io/badge/-Python-000?style=for-the-badge&logo=python"></a>
   <a href="#"><img src="https://img.shields.io/badge/-Linux-000?style=for-the-badge&logo=linux&"></a>
   <a href="#"><img src="https://img.shields.io/badge/-Bash-000?style=for-the-badge&logo=GNU%20Bash"></a>
   <a href="#"><img src="https://img.shields.io/badge/-Git-000?style=for-the-badge&logo=git"></a>
