@@ -1,4 +1,4 @@
-<h1 align=center> Ángela Medina Pavón <h1>
+<h1 align=center color=purple> Ángela Medina Pavón <h1>
 ## Coding at <img width=20% aling="right" src="https://www.42madrid.com/wp-content/uploads/2020/04/42-Madrid.jpg">
 
 <!--
