@@ -1,16 +1,14 @@
 <h1 align=center> :leaves: Ángela Medina Pavón :leaves: </h1>
-<div>
+
 <h2 align=center>
   :computer: Coding at...
-</h2>
 <p align=center>
   <img width="20%" src="https://www.42madrid.com/wp-content/uploads/2020/04/42-Madrid.jpg">
 </p>
-</div>
-<div>
+</h2>
+  
 <h2 align=center>
   :zap: Skills...
-</h2>
 <p align="center">
   <a href="#"><img src="https://img.shields.io/badge/-C-000?style=for-the-badge&logo=c"></a>
   <a href="#"><img src="https://img.shields.io/badge/-Python-000?style=for-the-badge&logo=python"></a>
@@ -20,7 +18,8 @@
   <a href="#"><img src="https://img.shields.io/badge/-HTML5-000?style=for-the-badge&logo=html5"></a>
   <a href="#"><img src="https://img.shields.io/badge/-CSS3-000?style=for-the-badge&logo=css3"></a>
 </p>
-</div>
+</h2>
+  
 <!--
 **AngieMP/AngieMP** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
