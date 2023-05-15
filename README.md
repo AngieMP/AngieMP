@@ -1,4 +1,5 @@
-### Coding at <img width=20% aling="right" src="https://www.42madrid.com/wp-content/uploads/2020/04/42-Madrid.jpg">
+<h1 align=center> Ángela Medina Pavón <h1>
+## Coding at <img width=20% aling="right" src="https://www.42madrid.com/wp-content/uploads/2020/04/42-Madrid.jpg">
 
 <!--
 **AngieMP/AngieMP** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
