@@ -1,5 +1,5 @@
 <h1 align=center colour=purple> Ángela Medina Pavón </h1>
-<h2>Coding at <img width=10% aling="right" src="https://www.42madrid.com/wp-content/uploads/2020/04/42-Madrid.jpg"></h2>
+<h2>Coding at <img width=15% aling="right" src="https://www.42madrid.com/wp-content/uploads/2020/04/42-Madrid.jpg"></h2>
 <!--
 <style>
   body {
