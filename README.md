@@ -1,7 +1,7 @@
-<h1 align=center color=red> Ángela Medina Pavón </h1>
+<h1 align=center style="color:purple";> ✨ Ángela Medina Pavón ✨ </h1>
 <br/>
 <h2>Coding at
-  <img width=15% aling="right" src="https://www.42madrid.com/wp-content/uploads/2020/04/42-Madrid.jpg">
+  <img width=15% src="https://www.42madrid.com/wp-content/uploads/2020/04/42-Madrid.jpg">
 </h2>
 <p align="center">
   <a href="#"><img src="https://img.shields.io/badge/-Python-000?style=for-the-badge&logo=python"></a>
