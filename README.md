@@ -3,7 +3,7 @@
 <h2 align=center>
   :computer: Coding at...
 <p align=center>
-  <img width="22%" src="https://www.42madrid.com/wp-content/uploads/2020/04/42-Madrid.jpg">
+  <img width="23%" src="https://www.42madrid.com/wp-content/uploads/2020/04/42-Madrid.jpg">
 </p>
 </h2>
   
