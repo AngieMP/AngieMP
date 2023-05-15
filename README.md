@@ -1,5 +1,6 @@
 <h1 align=center colour=purple> Ángela Medina Pavón <h1>
-## Coding at <img width=20% aling="right" src="https://www.42madrid.com/wp-content/uploads/2020/04/42-Madrid.jpg">
+##Coding at <img width=5% aling="right" src="https://www.42madrid.com/wp-content/uploads/2020/04/42-Madrid.jpg">
+<!--
 <style>
   body {
         background-image: url("https://static.wikia.nocookie.net/recreo/images/9/9a/Gretchen.png/revision/latest?cb=20130711235038&path-prefix=es");
@@ -7,6 +8,7 @@
         backgroud-position: right;
        }
 </style>
+-->
 <!--
 **AngieMP/AngieMP** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
