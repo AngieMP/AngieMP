@@ -1,6 +1,9 @@
 <h1 align=center> ✨ Ángela Medina Pavón ✨ </h1>
 <br/>
 <h2 align=center>
+  Coding at
+</h2>
+<h2 align=center>
   <img width="20%" src="https://www.42madrid.com/wp-content/uploads/2020/04/42-Madrid.jpg">
 </h2>
 <br/>
