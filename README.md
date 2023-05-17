@@ -28,7 +28,9 @@
 </h2>
 <h2 align="center">
    <img width="40%" src="https://img.freepik.com/vector-gratis/diagrama-celula-vastago-fondo-blanco_1308-15286.jpg">
-   🤖 You have some projects bellow...
+   <p>
+      🤖 You have some projects bellow...
+   </p>
 </h2>
   
 <!--
