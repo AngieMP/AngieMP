@@ -30,7 +30,6 @@
    <p>
       You have some projects bellow...
    </p>
-   <img width="20%" src="https://e1.pngegg.com/pngimages/874/308/png-clipart-pusheen-cat-pusheen-using-black-laptop.png">
 </h2>
   
 <!--
