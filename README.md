@@ -1,14 +1,14 @@
-<h1 align=center> ✨ Ángela Medina Pavón ✨ </h1>
+<h1 align=center> Ángela Medina Pavón ✨ </h1>
 
 <h2 align=center>
-  :computer: Coding at...
+   Coding at...:computer:
 <p align=center>
   <img width="23%" src="https://www.42madrid.com/wp-content/uploads/2020/04/42-Madrid.jpg">
 </p>
 </h2>
   
 <h2 align=center>
-  🔭 Skills...
+   Skills...🔭
   <p> </p>
 <p align="center">
   <a href="#"><img src="https://img.shields.io/badge/-C-000?style=for-the-badge&logo=c"></a>
