@@ -20,6 +20,9 @@
   <a href="#"><img src="https://img.shields.io/badge/-CSS3-000?style=for-the-badge&logo=css3"></a>
 </p>
 </h2>
+<h2>
+   <img src="https://img.freepik.com/vector-gratis/diagrama-celula-vastago-fondo-blanco_1308-15286.jpg">
+</h2>
   
 <!--
 **AngieMP/AngieMP** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
