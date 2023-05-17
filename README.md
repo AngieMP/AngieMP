@@ -8,7 +8,7 @@
 </h2>
   
 <h2 align=center>
-   🌱 My main skills...
+   🌱 My main skills are...
   <p> </p>
 <p align="center">
   <a href="#"><img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white"></a>
@@ -28,6 +28,7 @@
 </h2>
 <h2 align="center">
    <img width="40%" src="https://img.freepik.com/vector-gratis/diagrama-celula-vastago-fondo-blanco_1308-15286.jpg">
+   🤖 You have some projects bellow...
 </h2>
   
 <!--
