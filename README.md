@@ -18,8 +18,8 @@
   <a href="#"><img src="https://img.shields.io/badge/-HTML5-000?style=for-the-badge&logo=html5"></a>
   <a href="#"><img src="https://img.shields.io/badge/-CSS3-000?style=for-the-badge&logo=css3"></a>
 </p>
-  <a href="#"><img src="https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=black"></a>
-  <a href="#"><img src="https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=black"></a>
+  <a href="#"><img src="https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white"></a>
+  <a href="#"><img src="https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white"></a>
   <a href="#"><img src="https://img.shields.io/badge/-Linux-000?style=for-the-badge&logo=linux&"></a>
   <a href="#"><img src="https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=apple&logoColor=white"></a>
 <p>
