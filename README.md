@@ -1,14 +1,14 @@
-<h1 align=center> Ángela Medina Pavón 🎠 </h1>
+<h1 align=center> Hi, I'm Ángela Medina Pavón 🐿️ </h1>
 
 <h2 align=center>
-   Coding at...
+   🔭 I'm currently coding at...
 <p align=center>
-  <img width="23%" src="https://www.42madrid.com/wp-content/uploads/2020/04/42-Madrid.jpg">
+  <img width="30%" src="https://www.42madrid.com/wp-content/uploads/2020/04/42-Madrid.jpg">
 </p>
 </h2>
   
 <h2 align=center>
-   Skills...
+   🌱 My main skills...
   <p> </p>
 <p align="center">
   <a href="#"><img src="https://img.shields.io/badge/-C-000?style=for-the-badge&logo=c"></a>
@@ -21,7 +21,7 @@
 </p>
 </h2>
 <h2 align="center">
-   <img width="50%" src="https://img.freepik.com/vector-gratis/diagrama-celula-vastago-fondo-blanco_1308-15286.jpg">
+   <img width="40%" src="https://img.freepik.com/vector-gratis/diagrama-celula-vastago-fondo-blanco_1308-15286.jpg">
 </h2>
   
 <!--
