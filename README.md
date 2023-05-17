@@ -11,8 +11,8 @@
    🌱 My main skills...
   <p> </p>
 <p align="center">
-  <a href="#"><img src="https://img.shields.io/badge/-C-000?style=for-the-badge&logo=c"></a>
-  <a href="#"><img src="https://img.shields.io/badge/-Python-000?style=for-the-badge&logo=python"></a>
+  <a href="#"><img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white"></a>
+  <a href="#"><img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"></a>
   <a href="#"><img src="https://img.shields.io/badge/-Bash-000?style=for-the-badge&logo=GNU%20Bash"></a>
   <a href="#"><img src="https://img.shields.io/badge/-Git-000?style=for-the-badge&logo=git"></a>
   <a href="#"><img src="https://img.shields.io/badge/-HTML5-000?style=for-the-badge&logo=html5"></a>
@@ -20,7 +20,7 @@
 </p>
   <a href="#"><img src="https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white"></a>
   <a href="#"><img src="https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white"></a>
-  <a href="#"><img src="https://img.shields.io/badge/-Linux-000?style=for-the-badge&logo=linux&"></a>
+  <a href="#"><img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"></a>
   <a href="#"><img src="https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=apple&logoColor=white"></a>
 <p>
    
