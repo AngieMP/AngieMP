@@ -21,7 +21,7 @@
 </p>
 </h2>
 <h2 align="center">
-   <img width="70%" src="https://img.freepik.com/vector-gratis/diagrama-celula-vastago-fondo-blanco_1308-15286.jpg">
+   <img width="50%" src="https://img.freepik.com/vector-gratis/diagrama-celula-vastago-fondo-blanco_1308-15286.jpg">
 </h2>
   
 <!--
