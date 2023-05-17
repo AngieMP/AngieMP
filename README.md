@@ -30,7 +30,7 @@
    <p>
       You have some projects bellow...
    </p>
-   <img width="30%" src="https://img.freepik.com/vector-gratis/diagrama-celula-vastago-fondo-blanco_1308-15286.jpg">
+   <img width="20%" src="https://img.freepik.com/vector-gratis/diagrama-celula-vastago-fondo-blanco_1308-15286.jpg">
 </h2>
   
 <!--
